@@ -1,0 +1,62 @@
+.edit, #add-form {
+    display: none;
+}
+
+#add-up {
+    margin: -3% 0 0 61%;
+}
+.add-bottom-btn {
+    margin-top: 2%;
+}
+.title {
+    text-align: center;
+    font-size: 18px;
+    padding: 8px;
+    margin-bottom: 2%;
+    border: 1px solid rgb(245, 245, 245);
+    border-radius: 15px 15px 15px 15px;
+    background: rgb(232, 232, 238);
+    min-height: 5%;
+}
+
+.description {
+    text-align: center;
+    padding: 5px;
+    border: 1px solid rgb(245, 245, 245);
+    border-radius: 15px 15px 15px 15px;
+    background: rgb(245, 245, 247);
+    min-height: 10%;
+}
+
+.news {
+    max-width: 70%;
+    margin: 2% 10px 8% 10px;
+}
+#add-form, #edit-form {
+    width:60%;
+    margin: 2% 0 2% 5%;
+}
+.created, .updated {
+    float: right;
+}
+.created, .updated, .created-by {
+    font-size: 12px;
+}
+.main-container {
+    margin-top: 5%;
+}
+
+#logout-form {
+    margin: -3% 0 3% 64%;
+}
+.title-add {
+    margin-bottom: 2%;
+}
+#edit-description, #edit-title, .title-add, .description-add {
+    border: 1px solid rgb(245, 245, 245);
+    border-radius: 15px 15px 15px 15px;
+    margin: 0 0 5% 0;
+}
+.description-add, #edit-description {
+    min-height: 8%;
+}
